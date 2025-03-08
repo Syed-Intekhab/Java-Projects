@@ -1,5 +1,4 @@
 // Program to check max of three numbers
-
 import java.util.*;
 
 public class LargestOfThree{
