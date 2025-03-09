@@ -8,14 +8,14 @@ public class Main{
         System.out.print("Enter any number: ");
         int num = sc.nextInt();
         int sum = 0;
-        
+
         //Calculate the sum of digits
         while(num > 0){
             int digit = num % 10; // Extracts the last digit.
             sum += digit;   //Add it to the sum.
             num = num / 10; //Removes the last digit.
         }
-        
+
         // Print the total.
         System.out.println("The total of given number is: " + sum);
     }
