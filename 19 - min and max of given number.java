@@ -1,5 +1,4 @@
 // Program to find minimum and maximum of a given number.
-
 import java.util.*;
 
 public class Main{
