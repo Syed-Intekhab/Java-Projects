@@ -1,5 +1,4 @@
 // Program to calculate average of array elements.
-
 import java.util.*;
 
 public class Main{
