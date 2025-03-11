@@ -1,6 +1,4 @@
-
 // Program to reverse an array elements.
-
 import java.util.*;
 
 public class Main{
