@@ -11,10 +11,7 @@ public class Main{
     }
 }
 
-
-
 /*
-    
 	1 2 3 4 5
     
 	1 2 3 4
@@ -24,5 +21,4 @@ public class Main{
  	1 2 
   
 	1
-
 */
