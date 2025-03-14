@@ -4,7 +4,6 @@ import java.util.*;
 public class Main{
     public static void main(String args[]){
         int n = 5;
-        
         // Outer Loop
         for(int i = 1; i <= n; i++){
             // Inner Loop
