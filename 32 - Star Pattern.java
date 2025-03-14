@@ -1,5 +1,4 @@
 // Program to print butterfly pattern.
-
 import java.util.*;
 
 public class Main{
