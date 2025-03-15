@@ -1,1 +1,1 @@
-This repo contains all of my java practices.
+This repo contains all of my Java programs!
