@@ -16,11 +16,12 @@ This repository serves as a collection of Java programs I have written throughou
 ```
 📂 Java-Programs
 │-- 📂 Basics
-│-- 📂 OOP
-│-- 📂 DSA
-│-- 📂 File-Handling
-│-- 📂 Multithreading
-│-- 📂 Mini-Projects
+│-- 📂 Star Patterns
+│-- 📂 OOP (Coming soon!)
+│-- 📂 DSA (Coming soon!)
+│-- 📂 File-Handling (Coming soon!)
+│-- 📂 Multithreading (Coming soon!)
+│-- 📂 Mini-Projects (Coming soon!)
 │-- README.md
 ```
 
