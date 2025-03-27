@@ -27,7 +27,7 @@ This repository serves as a collection of Java programs I have written throughou
 ## 📞 Contact
 For any queries or suggestions, reach out to me via:
 - 📧 Email: intekhab.dev@gmail.com
-- 💼 Portfolio: https://syed-intekhab.github.io/Projects/(#)
-- 🐙 GitHub: https://github.com/Syed-Intekhab(#)
+- 💼 Portfolio: https://syed-intekhab.github.io/Projects
+- 🐙 GitHub: https://github.com/Syed-Intekhab
 
 Happy Coding! 🚀
